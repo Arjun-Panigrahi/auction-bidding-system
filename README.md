@@ -5,7 +5,8 @@ AUCTION BIDDING SYSTEM
     OVERVIEW :an auction bidding application which takes and stores  the number of users interested in bidding provides them an user id also asks them their username for the purpose of post bidding result display . It has been added with a table of item selection for bidding, each with their own starting price.
     The application has an inbuilt timer to check starting time and end time of the bid. The program has been connected with firebase through JSON files      which are automatically created when it detects there is no JSON file in the folder/directory 
     
-    Future Prospects:
+
+Future Prospects:
 - Change the Code to Make an Actual Useable Auction System
 - Add a UI and More Security so that the Database isn't Corrupted from External Intruders
 
@@ -25,6 +26,14 @@ Since firebase is owned by google it has pretty good security measures and scala
 HOW TO RUN ?
 Installation of python is must .
 User needs to install firebase-admin python library and change the filepath of the JSON file .
+
+HOW TO ACCESS THE DATA AND RESULTS:
+Access the firebase firestore database https://console.firebase.google.com/u/0/project/auction-bidding-arjun-gupta/firestore/data/~2FBid
+login credentials : 
+ user id - viewerdome@gmail.com
+ password - 12345$$12345
+
+
 
 
 
