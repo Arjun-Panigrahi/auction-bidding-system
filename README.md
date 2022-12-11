@@ -29,8 +29,10 @@ User needs to install firebase-admin python library and change the filepath of t
 
 HOW TO ACCESS THE DATA AND RESULTS:
 Access the firebase firestore database https://console.firebase.google.com/u/0/project/auction-bidding-arjun-gupta/firestore/data/~2FBid
+
 login credentials : 
- user id - viewerdome@gmail.com
+
+user id - viewerdome@gmail.com
  
  password - 12345$$12345
 
